@@ -4,9 +4,9 @@
 ```kotlin
 val Ololoshechkin = developer {
     about {
-        name = "Ktor"
+        name = "Vadim Briliantov"
         company = JetBrains
-        role = Software_Engineer
+        role = Ktor_developer
     }
     tech("Kotlin", "Ktor", "Algorithms", "C++")
     links {
