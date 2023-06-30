@@ -6,13 +6,13 @@ val Ololoshechkin = developer {
     about {
         name = "Vadim Briliantov"
         company = JetBrains
-        role = Ktor_developer
+        role = software_developer
+        team = Qodana
     }
-    tech("Kotlin", "Ktor", "Algorithms", "C++")
+    tech("Kotlin", "Ktor", "Algorithms", "C++", "Backend", "Docker", "Postgres")
     links {
-        instagram = "@vadimbrilyantov"
-        vk = "@vbrilyantov"
         telegram = "@Ololoshechkin"
+        instagram = "@vadimbrilyantov"
     }
 }
 ```
