@@ -9,7 +9,7 @@ val Ololoshechkin = developer {
         role = software_developer
         team = Qodana
     }
-    tech("Kotlin", "Ktor", "Algorithms", "C++", "Backend", "Docker", "Postgres")
+    tech("Kotlin", "Ktor", "Algorithms", "C++", "Backend", "Docker", "Postgres", "AWS")
     links {
         telegram = "@Ololoshechkin"
         instagram = "@vadimbrilyantov"
