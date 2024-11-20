@@ -7,9 +7,9 @@ val Ololoshechkin = developer {
         name = "Vadim Briliantov"
         company = JetBrains
         role = software_developer
-        team = Qodana
+        team = AI Code Engine
     }
-    tech("Kotlin", "Ktor", "Algorithms", "C++", "Backend", "Docker", "Postgres", "AWS")
+    tech("AI", "Kotlin", "Ktor", "Algorithms", "C++", "Backend", "Docker", "Postgres", "AWS", "IntelliJ Platform")
     links {
         telegram = "@Ololoshechkin"
         instagram = "@vadimbrilyantov"
