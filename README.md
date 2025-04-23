@@ -6,8 +6,8 @@ val Ololoshechkin = developer {
     about {
         name = "Vadim Briliantov"
         company = JetBrains
-        role = software_developer
-        team = AI Code Engine
+        role = technical_lead
+        team = AI Agents Platform
     }
     tech("AI", "Kotlin", "Ktor", "Algorithms", "C++", "Backend", "Docker", "Postgres", "AWS", "IntelliJ Platform")
     links {
