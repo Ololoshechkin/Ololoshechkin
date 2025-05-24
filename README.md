@@ -9,7 +9,7 @@ val Ololoshechkin = developer {
         role = technical_lead
         team = AI Agents Platform
     }
-    tech("AI", "Kotlin", "Ktor", "Algorithms", "C++", "Backend", "Docker", "Postgres", "AWS", "IntelliJ Platform")
+    tech("AI", "Kotlin", "Koog", "Ktor", "Algorithms", "C++", "Backend", "Docker", "Postgres", "AWS", "IntelliJ Platform")
     links {
         telegram = "@Ololoshechkin"
         instagram = "@vadimbrilyantov"
